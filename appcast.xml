@@ -20,7 +20,7 @@
                     <li>Privacy Report: Clear details on how your data stays local on your machine.</li>
                 </ul>
             ]]></description>
-            <enclosure url="https://github.com/bijithintersmart/standup/releases/download/v1.2.0/BreakMate-Installer.dmg"
+            <enclosure url="https://github.com/bijithintersmart/break-mate-update/tree/main/release_dmg/BreakMate-Installer.dmg"
                        sparkle:version="30"
                        sparkle:shortVersionString="1.2.0"
                        sparkle:edSignature="0jQkXojmMknf7iXNvC7vkaG2tkNoWE9oHLNTTW5KWl+NQ22ZvWOY6PWVRjb9JQv18XNr1C4/46jqjw52UXb1Aw=="
