@@ -5,6 +5,27 @@
         <description>Most recent updates to BreakMate.</description>
         <language>en</language>
         <item>
+            <title>Version 1.3.0</title>
+            <pubDate>Tue, 02 Jun 2026 10:00:00 +0000</pubDate>
+            <description><![CDATA[
+                <h3>BreakMate v1.3.0 — Enhanced Dashboard & Settings Experience</h3>
+                <p>This update significantly enhances the Dashboard and Settings experience, providing more context and control over your break sessions.</p>
+                <ul>
+                    <li>Enhanced Dashboard: New status chips, break reasoning, and calendar conflict controls.</li>
+                    <li>Settings Search & Resets: Quickly find settings and reset individual sections.</li>
+                    <li>Improved Tray Menu: Faster access to snooze, companion toggles, and pause reasons.</li>
+                    <li>Companion Low-Distraction Mode: A new mode for the pet to stay quiet during intense focus.</li>
+                    <li>Break Overlay Context: Explanations for why breaks start and what's expected.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/bijithintersmart/break-mate-update/tree/main/release_dmg/BreakMate-Installer.dmg"
+                       sparkle:version="32"
+                       sparkle:shortVersionString="1.3.0"
+                       sparkle:edSignature="WY51B8xvwyPcJycNsdVwLRkFyxYp1PfPfEoF41Bfs/n4horC3CFnJITJbKFqrH1bf//lFhJTj1gT4d/FUxksDg=="
+                       length="51666157"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 1.2.1</title>
             <pubDate>Mon, 01 Jun 2026 10:30:00 +0000</pubDate>
             <description><![CDATA[
@@ -18,11 +39,11 @@
                     <li>Stability Fixes: Resolved startup crashes and improved meeting detection precision.</li>
                 </ul>
             ]]></description>
-            <enclosure url="https://github.com/bijithintersmart/break-mate-update/tree/main/release_dmgBreakMate-Installer.dmg"
+            <enclosure url="https://github.com/bijithintersmart/break-mate-update/tree/main/release_dmg/BreakMate-Installer.dmg"
                        sparkle:version="31"
                        sparkle:shortVersionString="1.2.1"
-                       sparkle:edSignature="srayMiUEKUPX2OCpdE+8yT18rVbyZcLJu542Trd6GV6Es8roRWe3u9C98KX7lNlCymyZSwFXfUPCnjzgeUYsDA=="
-                       length="51722428"
+                       sparkle:edSignature="744wTs7U9cK+4Kb/mhAeYYKWe+kKD0bWFn0G2egbjeKZ0Hw7i6sJWYnNtQ19GIHzpIaag+smpHvARnkXLBFTCw=="
+                       length="51722553"
                        type="application/octet-stream" />
         </item>
         <item>
